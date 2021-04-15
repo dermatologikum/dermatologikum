@@ -24,6 +24,7 @@ npm run dev
 echo " "
 echo "Linking DNS..."
 valet link dermatologikum
+valet link dermatologikum-gruppe
 
 cd ..
 
