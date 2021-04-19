@@ -18,8 +18,8 @@ php artisan key:generate
 
 echo " "
 echo "Building the frontend"
-npm install
-npm run dev
+npm ci
+npx mix
 
 echo " "
 echo "Linking DNS..."
