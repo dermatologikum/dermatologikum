@@ -26,6 +26,7 @@ echo "Linking DNS..."
 valet link dermatologikum
 valet link dermatologikum-gruppe
 valet link dermatologikum-bremen
+valet link dermatologikum-swiss
 
 cd ..
 
