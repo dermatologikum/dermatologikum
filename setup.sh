@@ -16,6 +16,8 @@ composer update
 
 php artisan key:generate
 
+docker-compose up
+
 echo " "
 echo "Building the frontend"
 npm ci
