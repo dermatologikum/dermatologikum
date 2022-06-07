@@ -25,6 +25,9 @@ npx mix
 
 echo " "
 echo "Linking DNS..."
+
+valet use php@8.1
+
 valet link dermatologikum
 valet link dermatologikum-gruppe
 valet link dermatologikum-bremen
